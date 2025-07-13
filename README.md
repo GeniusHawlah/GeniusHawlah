@@ -11,8 +11,8 @@
   <a href="https://linkedin.com/in/GeniusHawlah" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tech-mire.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/📘 My Book-blue?style=for-the-badge" />
+  <a href="https://x.com/GeniusHawlah" target="_blank">
+    <img src="https://img.shields.io/badge/📍 X Bio-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -52,17 +52,16 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| 🔹 **[Wishlist App](https://maiwishlist.vercel.app/)** | Users create, manage, and share wishlists via personalized links | Next.js, MongoDB, TailwindCSS, Zustand |
-| 🔹 **[Bidding Platform (now e‑commerce)](https://www.bidclover.com/)** | American-based bidding system with full bidding & claiming flow | Next.js, TailwindCSS, ContextAPI |
-| 🔹 **[Music Event Booking (demo)](https://fobework-music-event-booking.vercel.app/)** | Reserve seats for music events with confirmation emails | Next.js, MongoDB, TailwindCSS, Zustand |
-| 🔹 **[Revenue Dashboard (demo)](https://mainstack-revenue-filter.vercel.app/)** | Finance overview dashboard with charts | Next.js, TailwindCSS, Zustand |
-| 🔹 **[Location Reviews (demo)](https://spotta-reviews.vercel.app/)** | Search locations, add & view reviews | Next.js, TailwindCSS, Zustand |
-| 🔹 **[Book Landing Page](https://tech-mire.vercel.app/)** | Simple landing page for *Tech Mire* | Next.js, Zustand, TailwindCSS |
-| 🔹 **[Ecommerce Dashboard]()** | Admin panel for ecommerce platform | Next.js, TailwindCSS, Zustand |
-| 🔹 **[Talent Acquisition Platform](https://www.codesandcogs.com/)** | Find and hire talent for projects | Next.js, TailwindCSS, ContextAPI |
-| 🔹 **[Flight Booking System](https://desunair.com/)** | Reserve flights within Nigeria | ReactJS, TailwindCSS, ContextAPI |
-| 🔹 **[Portfolio / Blog](https://geniushawlah.vercel.app/)** | My personal blog & portfolio site | Next.js, TailwindCSS, MongoDB, ContextAPI |
-|
+| 🔹 [**Wishlist App**](https://maiwishlist.vercel.app/) | Users create, manage, and share wishlists via personalized links | Next.js, MongoDB, TailwindCSS, Zustand |
+| 🔹 [**Bidding Platform**](https://www.bidclover.com/) | American-based bidding system with full bidding & claiming flow | Next.js, TailwindCSS, ContextAPI |
+| 🔹 [**Music Event Booking**](https://fobework-music-event-booking.vercel.app/) | Reserve seats for music events with confirmation emails | Next.js, MongoDB, TailwindCSS, Zustand |
+| 🔹 [**Revenue Dashboard**](https://mainstack-revenue-filter.vercel.app/) | Finance overview dashboard with charts | Next.js, TailwindCSS, Zustand |
+| 🔹 [**Location Reviews**](https://spotta-reviews.vercel.app/) | Search locations, add & view reviews | Next.js, TailwindCSS, Zustand |
+| 🔹 [**Book Landing Page**](https://tech-mire.vercel.app/) | Simple landing page for *Tech Mire* | Next.js, Zustand, TailwindCSS |
+| 🔹 **Ecommerce Dashboard** | Admin panel for ecommerce platform | Next.js, TailwindCSS, Zustand |
+| 🔹 [**Talent Acquisition Platform**](https://www.codesandcogs.com/) | Find and hire talent for projects | Next.js, TailwindCSS, ContextAPI |
+| 🔹 [**Flight Booking System**](https://desunair.com/) | Reserve flights within Nigeria | ReactJS, TailwindCSS, ContextAPI |
+| 🔹 [**Portfolio / Blog**](https://geniushawlah.vercel.app/) | My personal blog & portfolio site | Next.js, TailwindCSS, MongoDB, ContextAPI |
 
 ---
 
@@ -83,6 +82,18 @@ Also check my highlights on X: [@GeniusHawlah](https://x.com/GeniusHawlah)
 ### 📚 My Bookshelf
 
 Books that shaped how I think, build, and grow:
+
+- 🧠 **The Art of Thinking Clearly** by *Rolf Dobelli*  
+- 💸 **The Psychology of Money** by *Morgan Housel*  
+- 😌 **The Subtle Art of Not Giving a F*ck** by *Mark Manson*  
+- 🏦 **Rich Dad Poor Dad** by *Robert T. Kiyosaki*  
+- 💪 **Can't Hurt Me** by *David Goggins*  
+- 🔁 **Atomic Habits** by *James Clear*  
+- 🤝 **How to Win Friends and Influence People** by *Dale Carnegie*  
+- 🧠 **The Intelligence Trap** by *David Robson*  
+- 🔮 **Homo Deus** by *Yuval Noah Harari*  
+- 💼 **Think Big and Kick Ass** by *Donald Trump & Bill Zanker*  
+- 📘 [**A Walk Through Tech Mire**](https://tech-mire.vercel.app) by *Olasunkanmi Ajibola*
 
 ---
 
