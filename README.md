@@ -20,13 +20,15 @@
 
 ### 👨‍💻 Overview
 
-- 🔭 I’m a **Web Engineer** with over **4 years of experience** building **scalable**, **user-focused**, and **secure** web apps.
-- 🌍 I authored [**A Walk Through Tech Mire**](https://tech-mire.vercel.app) — guiding devs through tech frustration and distraction.
-- ⚙️ Stack: Next.js, ReactJS, NodeJS, NestJS, TailwindCSS, TypeScript, PostgreSQL, MongoDB, Prisma, TypeORM, **Render**, **Supabase**.
-- 🚀 My portfolio apps include e‑commerce platforms, bidding platforms, admin dashboards, booking systems, and more.
-- 🧠 I love translating designs into responsive interfaces and solving backend challenges.
-- 🗣️ I communicate clearly and thrive in team environments.
-- ⚽ Outside tech: I enjoy Chelsea FC, Psychology, Philosophy, Crime Films, and the Football Manager game.
+- I am a Web Engineer specializing in frontend development.  
+- While I have been coding for over 10 years, I have over four years of professional experience building modern user-facing web apps.  
+- I convert designs to pixel-perfect responsive components/pages while ensuring clean, maintainable, and well-documented code. 
+- I have an extra eye for security, both on the client-side and the server-side.  
+- I possess strong communication skills, making me an ideal team player/lead.  
+- I wrote and published a book to help the upcoming and struggling tech enthusiasts ([A Walk Through Tech Mire](https://selar.co/7w3352)).  
+- I manage time efficiently.  
+
+
 
 ---
 
@@ -36,6 +38,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?style=flat-square&logo=zustand)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -46,6 +49,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
+
 ---
 
 ### 🚧 Featured Projects
@@ -53,7 +57,8 @@
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | 🔹 [**Wishlist App**](https://maiwishlist.vercel.app/) | Users create, manage, and share wishlists via personalized links | Next.js, MongoDB, TailwindCSS, Zustand |
-| 🔹 [**Bidding Platform**](https://www.bidclover.com/) | American-based bidding system with full bidding & claiming flow | Next.js, TailwindCSS, ContextAPI |
+| 🔹 [**WaOwe API**](https://waowe.onrender.com/api) | RESTful API for managing accounts, obtaining tokens, and interacting with a searchable, filterable, and paginated collection of Yoruba adages (with translations and examples) | NestJS, PostgreSQL, TypeORM, Swagger |
+| 🔹 [**Bidding Platform (now ecommerce)**](https://www.bidclover.com/) | American-based bidding system with full bidding & claiming flow | Next.js, TailwindCSS, ContextAPI |
 | 🔹 [**Music Event Booking**](https://fobework-music-event-booking.vercel.app/) | Reserve seats for music events with confirmation emails | Next.js, MongoDB, TailwindCSS, Zustand |
 | 🔹 [**Revenue Dashboard**](https://mainstack-revenue-filter.vercel.app/) | Finance overview dashboard with charts | Next.js, TailwindCSS, Zustand |
 | 🔹 [**Location Reviews**](https://spotta-reviews.vercel.app/) | Search locations, add & view reviews | Next.js, TailwindCSS, Zustand |
@@ -62,6 +67,7 @@
 | 🔹 [**Talent Acquisition Platform**](https://www.codesandcogs.com/) | Find and hire talent for projects | Next.js, TailwindCSS, ContextAPI |
 | 🔹 [**Flight Booking System**](https://desunair.com/) | Reserve flights within Nigeria | ReactJS, TailwindCSS, ContextAPI |
 | 🔹 [**Portfolio / Blog**](https://geniushawlah.vercel.app/) | My personal blog & portfolio site | Next.js, TailwindCSS, MongoDB, ContextAPI |
+
 
 ---
 
@@ -74,7 +80,7 @@
 - Web dev best practices
 
 📝 Read them here: [Some Articles](https://geniushawlah.vercel.app/#featured-articles)  
-Also check my highlights on X: [@GeniusHawlah](https://x.com/GeniusHawlah)  
+Also check my Highlights on X: [@GeniusHawlah](https://x.com/GeniusHawlah)  
 📘 Book: [A Walk Through Tech Mire](https://tech-mire.vercel.app)
 
 ---
@@ -91,9 +97,12 @@ Books that shaped how I think, build, and grow:
 - 🔁 **Atomic Habits** by *James Clear*  
 - 🤝 **How to Win Friends and Influence People** by *Dale Carnegie*  
 - 🧠 **The Intelligence Trap** by *David Robson*  
+- 🧩 **You Are Not So Smart** by *David McRaney*  
+- 👑 **The 48 Laws of Power** by *Robert Greene*  
 - 🔮 **Homo Deus** by *Yuval Noah Harari*  
 - 💼 **Think Big and Kick Ass** by *Donald Trump & Bill Zanker*  
-- 📘 [**A Walk Through Tech Mire**](https://tech-mire.vercel.app) by *Olasunkanmi Ajibola*
+- 📘 [**A Walk Through Tech Mire**](https://tech-mire.vercel.app) by *Olasunkanmi Ajibola*  
+
 
 ---
 
