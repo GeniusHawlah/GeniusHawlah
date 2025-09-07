@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olasunkanmi</h1>
-<h3 align="center">A Web Engineer & Author (Next.js, NestJS, TypeScript)</h3>
+<h3 align="center">A Web Engineer (Next.js, NestJS, TypeScript)</h3>
 
 <p align="center">
   <a href="https://geniushawlah.vercel.app" target="_blank">
