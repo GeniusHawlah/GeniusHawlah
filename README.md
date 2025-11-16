@@ -56,17 +56,19 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
+| 🔹 [**IgiOwe (formerly WaOwe)**](https://igiowe.vercel.app/) | Yoruba adage search engine with filters, examples, and translations | Next.js, PostgreSQL, TailwindCSS, Zustand |
+| 🔹 [**Transcript Generator**](https://calcugp.vercel.app/) | Generate academic transcripts with GPA calculations and clean export-ready formatting | Next.js, TailwindCSS |
 | 🔹 [**Wishlist App**](https://maiwishlist.vercel.app/) | Users create, manage, and share wishlists via personalized links | Next.js, MongoDB, TailwindCSS, Zustand |
-| 🔹 [**WaOwe API**](https://waowe.onrender.com/api) | RESTful API for managing accounts, obtaining tokens, and interacting with a searchable, filterable, and paginated collection of Yoruba adages (with translations and examples) | NestJS, PostgreSQL, TypeORM, Swagger |
-| 🔹 [**Bidding Platform (now ecommerce)**](https://www.bidclover.com/) | American-based bidding system with full bidding & claiming flow | Next.js, TailwindCSS, ContextAPI |
+| 🔹 [**IgiOwe API**](https://igiowe.onrender.com/api) | RESTful API for managing accounts, obtaining tokens, and interacting with a searchable, filterable, and paginated collection of Yoruba adages (with translations and examples) | NestJS, PostgreSQL, TypeORM, Swagger |
+| 🔹 [**Bidding Platform (now ecommerce)**](https://www.bidclover.com/) | American-based bidding system with full bidding and claiming flow | Next.js, TailwindCSS, ContextAPI |
 | 🔹 [**Music Event Booking**](https://fobework-music-event-booking.vercel.app/) | Reserve seats for music events with confirmation emails | Next.js, MongoDB, TailwindCSS, Zustand |
 | 🔹 [**Revenue Dashboard**](https://mainstack-revenue-filter.vercel.app/) | Finance overview dashboard with charts | Next.js, TailwindCSS, Zustand |
-| 🔹 [**Location Reviews**](https://spotta-reviews.vercel.app/) | Search locations, add & view reviews | Next.js, TailwindCSS, Zustand |
+| 🔹 [**Location Reviews**](https://spotta-reviews.vercel.app/) | Search locations, add and view reviews | Next.js, TailwindCSS, Zustand |
 | 🔹 [**Book Landing Page**](https://tech-mire.vercel.app/) | Simple landing page for *Tech Mire* | Next.js, Zustand, TailwindCSS |
 | 🔹 **Ecommerce Dashboard** | Admin panel for ecommerce platform | Next.js, TailwindCSS, Zustand |
 | 🔹 [**Talent Acquisition Platform**](https://www.codesandcogs.com/) | Find and hire talent for projects | Next.js, TailwindCSS, ContextAPI |
 | 🔹 [**Flight Booking System**](https://desunair.com/) | Reserve flights within Nigeria | ReactJS, TailwindCSS, ContextAPI |
-| 🔹 [**Portfolio / Blog**](https://geniushawlah.vercel.app/) | My personal blog & portfolio site | Next.js, TailwindCSS, MongoDB, ContextAPI |
+| 🔹 [**Portfolio / Blog**](https://geniushawlah.vercel.app/) | My personal blog and portfolio site | Next.js, TailwindCSS, MongoDB, ContextAPI |
 
 
 ---
