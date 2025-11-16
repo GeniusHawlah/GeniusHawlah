@@ -56,7 +56,7 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| 🔹 [**IgiOwe (formerly WaOwe)**](https://igiowe.vercel.app/) | Yoruba adage search engine with filters, examples, and translations | Next.js, PostgreSQL, TailwindCSS, Zustand |
+| 🔹 [**IgiOwe**](https://igiowe.vercel.app/) | Yoruba adage search engine with filters, examples, and translations | Next.js, PostgreSQL, TailwindCSS, Zustand |
 | 🔹 [**Transcript Generator**](https://calcugp.vercel.app/) | Generate academic transcripts with GPA calculations and clean export-ready formatting | Next.js, TailwindCSS |
 | 🔹 [**Wishlist App**](https://maiwishlist.vercel.app/) | Users create, manage, and share wishlists via personalized links | Next.js, MongoDB, TailwindCSS, Zustand |
 | 🔹 [**IgiOwe API**](https://igiowe.onrender.com/api) | RESTful API for managing accounts, obtaining tokens, and interacting with a searchable, filterable, and paginated collection of Yoruba adages (with translations and examples) | NestJS, PostgreSQL, TypeORM, Swagger |
